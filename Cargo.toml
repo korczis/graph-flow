@@ -7,6 +7,8 @@ authors = ["Tomas Korcak <korczis@gmail.com>"]
 clap = ">= 2.18"
 ctrlc = ">= 2.0"
 env_logger = ">= 0.4"
+libc = ">= 0.2.16"
+log = ">= 0.3.6"
 
 [lib]
 name = "graph_flow"

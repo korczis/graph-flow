@@ -1,3 +1,5 @@
+#[macro_use]
+
 #[cfg(test)]
 mod tests {
     #[test]
